@@ -14,3 +14,5 @@ VV     VV   AAAAA   ZZZZZZZ  K   K  EEEEE  FFFFF  TTTTTTT
                             LLLLL   LLLLL   CCCCC
 ```
 ASCII
+
+LinkedIn: https://www.linkedin.com/in/daniel-neustadter-b00363225/
