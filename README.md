@@ -1,5 +1,5 @@
 # vazkeft.github.io
-This is a sample resume I might update later.
+This is an AI generated website I might update later
 ```
 VV     VV   AAAAA   ZZZZZZZ  K   K  EEEEE  FFFFF  TTTTTTT
  V     V   A     A      ZZ   K  K   E      F        T
@@ -15,4 +15,4 @@ VV     VV   AAAAA   ZZZZZZZ  K   K  EEEEE  FFFFF  TTTTTTT
 ```
 ASCII
 
-LinkedIn: https://www.linkedin.com/in/daniel-neustadter-b00363225/
+LinkedIn: https://www.linkedin.com/in/vazkeft/
