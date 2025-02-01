@@ -15,4 +15,4 @@ VV     VV   AAAAA   ZZZZZZZ  K   K  EEEEE  FFFFF  TTTTTTT
 ```
 ASCII
 
-LinkedIn: https://www.linkedin.com/in/vazkeft/
+LinkedIn: [https://www.linkedin.com/in/vazkeft/](https://www.linkedin.com/company/vazkeft/)
